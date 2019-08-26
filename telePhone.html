@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+    function Phone(name, battery) {
+        this.Name = name;
+        this.Battery = battery;
+        this.Inbox = [];
+        this.Outbox = [];
+        this.messenger = "";
+        this.powerButton = false;
+        this.writeMessage = function (message) {
+            this.message = message;
+        };
+        this.isOnOff = function () {
+            if (this.powerButton) {
+                alert('Điện thoại đang bật');
+                this.battery--;
+            } else {
+                alert('Điện thoại tắt');
+            }
+        };
+
+        this.power=function () {
+          if (this.powerButton){
+              this.batteryDecrease();
+              this.powerButton=false;
+          }else if (!this.powerButton && this.battery<0) {
+
+              this.batteryDecrease();
+              this.powerButton=true;
+
+          }else{
+              alert('sạc pin');
+              this.recharge();
+
+          }
+        };
+
+        this.getName = function () {
+            return this.Name;
+
+        };
+
+        this.getBattery = function () {
+            return this.Battery;
+        };
+
+        this.getMessenger = function () {
+            return this.messenger;
+        };
+
+        this.recharge = function () {
+            let randomBattery = Math.floor((Math.random() * 49) + 1);
+            this.battery = randomBattery;
+            return ('đã sạc ' + randomBattery + '%');
+
+        };
+
+        this.batteryDecrease = function () {
+            if (this.battery < 0) {
+                alert('hết pin');
+                this.powerButton = false;
+                this.recharge();
+            } else {
+                this.battery--;
+            }
+        };
+
+        this.sendMessage = function (phone) {
+            phone.Inbox.push(this.message);
+            this.Outbox.push(this.message);
+            this.battery--;
+        };
+
+        this.getInbox = function ([]) {
+            return this.Inbox;
+        };
+
+        this.getOutbox = function ([]) {
+            return this.Outbox;
+        };
+
+    }
+
+
+    let nokia = new Phone("nokia", 100);
+    let samsung = new Phone("samsung", 99);
+    nokia.writeMessage("Hello"+'<br/>');
+    nokia.sendMessage(samsung);
+    nokia.writeMessage("Xin Chao");
+    nokia.sendMessage(samsung);
+    document.write(samsung.getInbox([]));
+
+
+</script>
+
+
+</body>
+</html>

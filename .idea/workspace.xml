@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="366a4ed2-0e1a-429e-8257-7fdb6579c8dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../adamAndEva/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adamAndEva/.idea/adamAndEva.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adamAndEva/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adamAndEva/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adamAndEva/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adamAndEva/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adamAndEva/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../adamAndEva/practiceAdamEva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/arrayCreate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caro/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caro/.idea/caro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caro/caroSimple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../converteFeetToMet/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../converteFeetToMet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../converteFeetToMet/.idea/converteFeetToMet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../converteFeetToMet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../converteFeetToMet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../converteFeetToMet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../converteFeetToMet/feetToMet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createFunction/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createFunction/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createFunction/.idea/createFunction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createFunction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createFunction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createFunction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createFunction/practice1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createFunction/practice2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createFunction/practice3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/dictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dictionary/pracDictionary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../findValue/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../findValue/findValueOfArray.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funnyCircle/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funnyCircle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funnyCircle/.idea/funnyCircle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funnyCircle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funnyCircle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funnyCircle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funnyCircle/practiceFunnyCircle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../funtion1/practiceFunction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/.idea/lamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/darkLights.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/lights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/power-button-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/power-button-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lamp/practiceLamp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lampAndTorch/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lampAndTorch/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lampAndTorch/.idea/lampAndTorch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lampAndTorch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lampAndTorch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lampAndTorch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lampAndTorch/lampTorch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/chapterTable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/countNum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/displayFibonaci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/gameGuessTheNumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/hrWhile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/numberDoWhile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/printNumDivide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/printNumFor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/sumDoWhile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/sumFibonaci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/sumNaturalNumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhile/testPrime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhileFor2/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhileFor2/factorial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhileFor2/paintRactangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loopDoWhileFor2/paintingTriangular.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../managerProduct/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../managerProduct/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../managerProduct/.idea/managerProduct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../managerProduct/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../managerProduct/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../managerProduct/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../managerProduct/product_Manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maxOfArray/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maxOfArray/.idea/maxOfArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maxOfArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maxOfArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maxOfArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maxOfArray/findMaxOfArray.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movingOOP/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movingOOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movingOOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movingOOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movingOOP/.idea/movingOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movingOOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movingOOP/bubs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movingOOP/practiceMovingGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telePhone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceArray/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceArray/displayNumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rectangleOOP/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rectangleOOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rectangleOOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rectangleOOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rectangleOOP/.idea/rectangleOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rectangleOOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rectangleOOP/paintRectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reverse/reverseArray.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symestryNum/symmetryNumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatureOOP/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatureOOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatureOOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatureOOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatureOOP/.idea/temperatureOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatureOOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperatureOOP/temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrimeFunction/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrimeFunction/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrimeFunction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrimeFunction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrimeFunction/.idea/testPrimeFunction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrimeFunction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testPrimeFunction/testPrime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomAndJerry/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomAndJerry/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomAndJerry/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomAndJerry/.idea/tomAndJerry.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomAndJerry/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomAndJerry/mouseAndCat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction/arrayFunction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction/compareNum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction/createAlert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction/createFunctionNum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction/paddAlert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction1/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction1/practice1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction1/practice2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction1/practice3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction1/practice4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction1/practice5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction1/practice6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction1/practice7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction1/practice8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingFunction1/practice9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP/.idea/trainingOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP/practice1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP1/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP1/.idea/trainingOOP1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trainingOOP1/practice2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../useFunctionOfArray/.gitinore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../useFunctionOfArray/insertSign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../useFunctionOfArray/uppercaseLetter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../useFunctionOfArray/useArrayStringConnection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bien/advanceCalculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bien/advanceCalculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funtion/.gitinore" beforeDir="false" afterPath="$PROJECT_DIR$/../funtion/.gitinore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funtion/countDay.html" beforeDir="false" afterPath="$PROJECT_DIR$/../funtion/countDay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funtion/keyboardEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/../funtion/keyboardEvent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funtion/weightBMI.html" beforeDir="false" afterPath="$PROJECT_DIR$/../funtion/weightBMI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loop/Operator3Star.html" beforeDir="false" afterPath="$PROJECT_DIR$/../loop/Operator3Star.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switchFor/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../switchFor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/nhungJs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/nhungJs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2/capacity.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/capacity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2/condition2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/condition2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2/maxNumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/maxNumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2/percentComission.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/percentComission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2/testNumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/testNumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2/yearInTen.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/yearInTen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/areaSquare.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/areaSquare.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/calcuDay.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/calcuDay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/changeImage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/changeLength.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/changeLength.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/changeTemperature.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/changeTemperature.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/doYouLoveMe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/electricityPrice.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/electricityPrice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/equalFirst.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/equalFirst.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/equalSecond.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/equalSecond.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/mouseEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/mouseEvent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/squareRectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/squareRectangle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/triangularTG.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/triangularTG.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2Switch/yearOld.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week2Switch/yearOld.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Pg5bV9Ps52ZivyJbh9S462UvKt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="366a4ed2-0e1a-429e-8257-7fdb6579c8dd" name="Default Changelist" comment="" />
+      <created>1566282970778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566282970778</updated>
+      <workItem from="1566282972196" duration="65000" />
+      <workItem from="1566283082769" duration="10360000" />
+      <workItem from="1566294690757" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
